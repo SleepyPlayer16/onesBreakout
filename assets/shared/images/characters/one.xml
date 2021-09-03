@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="one.png"><SubTexture name="one One Idle0000" x="0" y="0" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One Idle0001" x="607" y="0" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One Idle0002" x="1214" y="0" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One Idle0003" x="0" y="732" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One Idle0004" x="607" y="732" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One DownPose0000" x="1214" y="732" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One DownPose0001" x="0" y="1464" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One UpPose0000" x="607" y="1464" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One UpPose0001" x="1214" y="1464" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One LeftPose0000" x="0" y="2196" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One LeftPose0001" x="607" y="2196" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One RightPose0000" x="1214" y="2196" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+<SubTexture name="one One RightPose0001" x="0" y="2928" width="607" height="732" frameX="0" frameY="0" frameWidth="607" frameHeight="732" />
+</TextureAtlas>
